@@ -10,7 +10,7 @@ public/license/.licenses
 public/license/bower.LICENSES
 
 generate_langauges.php
-dist/
+
 docs/
 public/bower_components
 *.patch
